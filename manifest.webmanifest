@@ -1,0 +1,9 @@
+{
+  "name":"Lucky Chat",
+  "short_name":"Lucky Chat",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f4f4ef",
+  "theme_color":"#d9ff3f",
+  "description":"Neobrutalist lemon-green chat app"
+}
